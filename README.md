@@ -2,7 +2,7 @@
 
 I developed NewsBeacon, a dynamic news application offering comprehensive coverage of global events. Through intuitive design and advanced technology, users can easily access news articles categorized by topic, including business, sports, and health. With features like a dynamic breaking news section and trending news updates, NewsBeacon delivers real-time information in a user-friendly format, setting a new standard for news consumption.
 
-## Getting Started
+## Demo 
 
 
 
